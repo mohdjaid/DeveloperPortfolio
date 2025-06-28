@@ -37,3 +37,7 @@ pip install -r requirements.txt
 # Migrate DB and start server
 python manage.py migrate
 python manage.py runserver
+
+-- user credential
+username: test
+passowrd: test
